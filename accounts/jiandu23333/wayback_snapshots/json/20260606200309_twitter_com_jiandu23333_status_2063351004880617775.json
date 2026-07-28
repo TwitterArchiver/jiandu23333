@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2063350677917847842",
+    "created_at": "2026-06-06T20:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T21:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063351004880617775"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063351004880617775",
+    "in_reply_to_user_id": "289298525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063350677917847842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他是我最初的互fo大概前二十个……😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2063350674390470656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJ-gZobUAAoT7f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2063350677917847842",
+        "created_at": "2026-06-06T20:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T21:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063351004880617775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063351004880617775",
+        "in_reply_to_user_id": "289298525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063350677917847842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他是我最初的互fo大概前二十个……😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063350674390470656"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2063350677917847842",
+        "created_at": "2026-06-06T20:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T21:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063350677917847842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3psW6y1EN",
+              "end": 67,
+              "expanded_url": "https://x.com/jiandu23333/status/2063350677917847842/photo/1",
+              "media_key": "3_2063350674390470656",
+              "start": 44,
+              "url": "https://t.co/l3psW6y1EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063350677917847842",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn疑似注销账号……😨😰😭\n他改过一次名，发帖说账号被身边的人发现了…… https://t.co/l3psW6y1EN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 321,
+          "like_count": 7909,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

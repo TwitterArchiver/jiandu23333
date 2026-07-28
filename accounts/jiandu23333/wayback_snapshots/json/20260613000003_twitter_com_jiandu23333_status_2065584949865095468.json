@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2065376919311511679",
+    "created_at": "2026-06-13T00:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065584949865095468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055107487632916481",
+          "start": 0,
+          "username": "haoli175879"
+        },
+        {
+          "end": 29,
+          "id": "1909678677165850625",
+          "start": 13,
+          "username": "57H99aTUC342131"
+        },
+        {
+          "end": 37,
+          "id": "1613079089879076864",
+          "start": 30,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065584949865095468",
+    "in_reply_to_user_id": "2055107487632916481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065481830011482610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@haoli175879 @57H99aTUC342131 @YunJiu 这就错了，反而大牌的便宜，那些小牌的就是价格刺客。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2065376919311511679",
+        "created_at": "2026-06-13T00:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065584949865095468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055107487632916481",
+              "start": 0,
+              "username": "haoli175879"
+            },
+            {
+              "end": 29,
+              "id": "1909678677165850625",
+              "start": 13,
+              "username": "57H99aTUC342131"
+            },
+            {
+              "end": 37,
+              "id": "1613079089879076864",
+              "start": 30,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065584949865095468",
+        "in_reply_to_user_id": "2055107487632916481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065481830011482610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@haoli175879 @57H99aTUC342131 @YunJiu 这就错了，反而大牌的便宜，那些小牌的就是价格刺客。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055107487632916481",
+        "conversation_id": "2065376919311511679",
+        "created_at": "2026-06-12T17:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065481830011482610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1909678677165850625",
+              "start": 0,
+              "username": "57H99aTUC342131"
+            },
+            {
+              "end": 24,
+              "id": "1613079089879076864",
+              "start": 17,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065481830011482610",
+        "in_reply_to_user_id": "1909678677165850625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444631131955646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@57H99aTUC342131 @YunJiu 便宜的都是杂牌货，大牌的便宜不了多少，可乐零食店2.9，便利店3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 357,
+          "like_count": 9651,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T02:08:17.000Z",
+        "description": "",
+        "id": "2055107487632916481",
+        "name": "移库移库",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062185129666310144/q4vuECQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "haoli175879",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T18:44:19.000Z",
+        "description": "",
+        "id": "1909678677165850625",
+        "name": "应急食品",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914742944034381824/QtXag_8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 121,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "57H99aTUC342131",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105416,
+          "following_count": 806,
+          "like_count": 37242,
+          "listed_count": 295,
+          "media_count": 19332,
+          "tweet_count": 27683
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

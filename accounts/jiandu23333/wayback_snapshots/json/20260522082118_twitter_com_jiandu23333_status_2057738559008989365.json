@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2057734543554294105",
+    "created_at": "2026-05-22T08:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057738559008989365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823195391908814848",
+          "start": 0,
+          "username": "Ann00__1"
+        },
+        {
+          "end": 23,
+          "id": "1792540990504583168",
+          "start": 10,
+          "username": "tamanosuke59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057738559008989365",
+    "in_reply_to_user_id": "1823195391908814848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057734543554294105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ann00__1 @tamanosuke59 めっちゃそっくり！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057734537589952512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6KqNsaEAA9wb8.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2057734543554294105",
+        "created_at": "2026-05-22T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057738559008989365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823195391908814848",
+              "start": 0,
+              "username": "Ann00__1"
+            },
+            {
+              "end": 23,
+              "id": "1792540990504583168",
+              "start": 10,
+              "username": "tamanosuke59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057738559008989365",
+        "in_reply_to_user_id": "1823195391908814848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057734543554294105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ann00__1 @tamanosuke59 めっちゃそっくり！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057734537589952512"
+          ]
+        },
+        "author_id": "1823195391908814848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2057734543554294105",
+        "created_at": "2026-05-22T08:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057734543554294105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJQWZofbz3",
+              "end": 38,
+              "expanded_url": "https://x.com/Ann00__1/status/2057734543554294105/photo/1",
+              "media_key": "3_2057734537589952512",
+              "start": 15,
+              "url": "https://t.co/DJQWZofbz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057734543554294105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 100,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "東方project/博麗霊夢 https://t.co/DJQWZofbz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 241,
+          "like_count": 4139,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T03:11:05.000Z",
+        "description": "18↓/東海/159㎝/重加工/無断転載✖︎/ジャンルいっぱい/リトリン→https://t.co/wvH1Eqxkp7日常をつぶやくサブ垢→ https://t.co/hKtSmKguTD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/lity0G/",
+                "end": 60,
+                "expanded_url": "https://lit.link/lity0G/",
+                "start": 37,
+                "url": "https://t.co/wvH1Eqxkp7"
+              },
+              {
+                "display_url": "x.com/tuqo7iqoix2cll…",
+                "end": 95,
+                "expanded_url": "https://x.com/tuqo7iqoix2cllz?s=21",
+                "start": 72,
+                "url": "https://t.co/hKtSmKguTD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "annchan.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://annchan.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/QIQo4ZdKRb"
+              }
+            ]
+          }
+        },
+        "id": "1823195391908814848",
+        "name": "Ann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900185527644778496/jTx-RxYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 228,
+          "like_count": 7206,
+          "listed_count": 17,
+          "media_count": 517,
+          "tweet_count": 3531
+        },
+        "url": "https://t.co/QIQo4ZdKRb",
+        "username": "Ann00__1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T13:01:08.000Z",
+        "description": "Photographer(趣味)📷 /\n撮影した写真⇒https://t.co/HgYWXFTFMj / \nお問い合わせはDMへ📨 / 🇯🇵東海 / \n🚗HV37 SKYLINE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/tamanosuke59",
+                "end": 50,
+                "expanded_url": "https://cos.guide/i/tamanosuke59",
+                "start": 27,
+                "url": "https://t.co/HgYWXFTFMj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/tamanosuke59",
+                "end": 23,
+                "expanded_url": "https://cos.guide/i/tamanosuke59",
+                "start": 0,
+                "url": "https://t.co/HgYWXFTFMj"
+              }
+            ]
+          }
+        },
+        "id": "1792540990504583168",
+        "location": "東海",
+        "name": "たまのすけ 📷　コスサミパーティー 4/29",
+        "pinned_tweet_id": "2033865681868099750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814581678951837696/EQwkAPeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 967,
+          "like_count": 13659,
+          "listed_count": 27,
+          "media_count": 282,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/HgYWXFTFMj",
+        "username": "tamanosuke59",
+        "verified": false
+      }
+    ]
+  }
+}

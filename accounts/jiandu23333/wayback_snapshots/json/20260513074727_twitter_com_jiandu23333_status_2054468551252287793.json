@@ -1,0 +1,620 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2054468551252287793",
+    "created_at": "2026-05-13T07:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054468551252287793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abc_kuma1025/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/abc_kuma1025/status/2054326138743505181",
+          "start": 13,
+          "url": "https://t.co/aq7NOMjnfQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054468551252287793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054326138743505181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好誒！JAVA版好友联机 https://t.co/aq7NOMjnfQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "①相手がワールドを開放する",
+        "height": 1057,
+        "media_key": "3_2054325910002950144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJuh-abYAAGQL9.jpg",
+        "width": 1920
+      },
+      {
+        "alt_text": "②自分のフレンドリストに表示される",
+        "height": 1057,
+        "media_key": "3_2054325930315952128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJujKFbMAAwd7S.jpg",
+        "width": 1920
+      },
+      {
+        "alt_text": "③自分が参加リクエストを送信する",
+        "height": 1057,
+        "media_key": "3_2054325979917766656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJumC3a0AAJGzi.jpg",
+        "width": 1920
+      },
+      {
+        "alt_text": "④相手が手動で承認したら、接続されてワールドに入れる！",
+        "height": 1051,
+        "media_key": "3_2054326044526800896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJupzjacAAvP-D.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2054468551252287793",
+        "created_at": "2026-05-13T07:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054468551252287793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abc_kuma1025/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/abc_kuma1025/status/2054326138743505181",
+              "start": 13,
+              "url": "https://t.co/aq7NOMjnfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054468551252287793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054326138743505181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好誒！JAVA版好友联机 https://t.co/aq7NOMjnfQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054325910002950144",
+            "3_2054325930315952128",
+            "3_2054325979917766656",
+            "3_2054326044526800896"
+          ]
+        },
+        "author_id": "3254570676",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2054326138743505181",
+        "created_at": "2026-05-12T22:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054326138743505181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiWgtoJwCD",
+              "end": 184,
+              "expanded_url": "https://x.com/abc_kuma1025/status/2054326138743505181/photo/1",
+              "media_key": "3_2054325910002950144",
+              "start": 161,
+              "url": "https://t.co/FiWgtoJwCD"
+            },
+            {
+              "display_url": "pic.x.com/FiWgtoJwCD",
+              "end": 184,
+              "expanded_url": "https://x.com/abc_kuma1025/status/2054326138743505181/photo/1",
+              "media_key": "3_2054325930315952128",
+              "start": 161,
+              "url": "https://t.co/FiWgtoJwCD"
+            },
+            {
+              "display_url": "pic.x.com/FiWgtoJwCD",
+              "end": 184,
+              "expanded_url": "https://x.com/abc_kuma1025/status/2054326138743505181/photo/1",
+              "media_key": "3_2054325979917766656",
+              "start": 161,
+              "url": "https://t.co/FiWgtoJwCD"
+            },
+            {
+              "display_url": "pic.x.com/FiWgtoJwCD",
+              "end": 184,
+              "expanded_url": "https://x.com/abc_kuma1025/status/2054326138743505181/photo/1",
+              "media_key": "3_2054326044526800896",
+              "start": 161,
+              "url": "https://t.co/FiWgtoJwCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054326138743505181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 945,
+          "impression_count": 180593,
+          "like_count": 2591,
+          "quote_count": 221,
+          "reply_count": 8,
+          "retweet_count": 725
+        },
+        "reply_settings": "everyone",
+        "text": "【26.2-snapshot-7】\nMinecraft Java版で簡単にマルチプレイできます！\nフレンドさんのワールドに入るには：\n①相手がワールドを開放する\n②自分のフレンドリストに表示される\n③自分が参加リクエストを送信する\n④相手が手動で承認したら、接続されてワールドに入れる！\n\nこれは革命すぎる...！！！✨ https://t.co/FiWgtoJwCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓/不回消息就是在上课",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 192,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-24T13:04:12.000Z",
+        "description": "Minecraft(Java,Bedrock)とBattlefieldを遊んでいるくまさん🐻‍ ￤ Minecraftの最新情報を気ままにツイートしてます ￤ @milkmochabear ＆くまのぬいぐるみが大好き🧸 ￤ I'd really appreciate a like and follow! :)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "milkmochabear"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misskey.io/@abc_kuma1025",
+                "end": 23,
+                "expanded_url": "https://misskey.io/@abc_kuma1025",
+                "start": 0,
+                "url": "https://t.co/fDRLsY7aDd"
+              }
+            ]
+          }
+        },
+        "id": "3254570676",
+        "location": "くまのぬいぐるみ / Japan",
+        "name": "🐻白くまさん🐱",
+        "pinned_tweet_id": "1528881653011161089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587097006190653440/Ngd3l6L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10555,
+          "following_count": 899,
+          "like_count": 26612,
+          "listed_count": 61,
+          "media_count": 7568,
+          "tweet_count": 38821
+        },
+        "url": "https://t.co/fDRLsY7aDd",
+        "username": "abc_kuma1025",
+        "verified": false
+      }
+    ]
+  }
+}

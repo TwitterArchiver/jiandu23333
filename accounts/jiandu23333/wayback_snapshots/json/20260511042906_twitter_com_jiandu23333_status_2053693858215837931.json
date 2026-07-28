@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2053692147166224481",
+    "created_at": "2026-05-11T04:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053693858215837931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823195391908814848",
+          "start": 0,
+          "username": "Ann00__1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053693858215837931",
+    "in_reply_to_user_id": "1823195391908814848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053692147166224481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ann00__1 1/4321"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 303,
+        "media_key": "3_2053692141659164672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAuHzWbEAAOivb.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2053692147166224481",
+        "created_at": "2026-05-11T04:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053693858215837931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823195391908814848",
+              "start": 0,
+              "username": "Ann00__1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053693858215837931",
+        "in_reply_to_user_id": "1823195391908814848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053692147166224481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ann00__1 1/4321"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053692141659164672"
+          ]
+        },
+        "author_id": "1823195391908814848",
+        "conversation_id": "2053692147166224481",
+        "created_at": "2026-05-11T04:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053692147166224481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VPEaxz47Dq",
+              "end": 29,
+              "expanded_url": "https://x.com/Ann00__1/status/2053692147166224481/photo/1",
+              "media_key": "3_2053692141659164672",
+              "start": 6,
+              "url": "https://t.co/VPEaxz47Dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053692147166224481",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4321！ https://t.co/VPEaxz47Dq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓/不回消息就是在上课",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 157,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T03:11:05.000Z",
+        "description": "18↓/東海/159㎝/重加工/無断転載✖︎/ジャンルいっぱい/リトリン→https://t.co/wvH1Eqxkp7繋がらない方がいいサブ垢→ https://t.co/hKtSmKguTD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/lity0G/",
+                "end": 60,
+                "expanded_url": "https://lit.link/lity0G/",
+                "start": 37,
+                "url": "https://t.co/wvH1Eqxkp7"
+              },
+              {
+                "display_url": "x.com/tuqo7iqoix2cll…",
+                "end": 97,
+                "expanded_url": "https://x.com/tuqo7iqoix2cllz?s=21",
+                "start": 74,
+                "url": "https://t.co/hKtSmKguTD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "annchan.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://annchan.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/QIQo4ZdKRb"
+              }
+            ]
+          }
+        },
+        "id": "1823195391908814848",
+        "name": "Ann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900185527644778496/jTx-RxYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4321,
+          "following_count": 226,
+          "like_count": 6997,
+          "listed_count": 16,
+          "media_count": 500,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/QIQo4ZdKRb",
+        "username": "Ann00__1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054197505093718016"
+      ],
+      "media_source_tweet_id": [
+        "2054197513469714683"
+      ]
+    },
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054458273701769652",
+    "created_at": "2026-05-13T07:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054458273701769652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1177426106867011584",
+          "start": 3,
+          "username": "buzz_wadai_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z93d9hWWBg",
+          "end": 63,
+          "expanded_url": "https://x.com/buzz_wadai_/status/2054197513469714683/photo/1",
+          "media_key": "3_2054197505093718016",
+          "start": 40,
+          "url": "https://t.co/Z93d9hWWBg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054458273701769652",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054197513469714683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buzz_wadai_: はぁ...\nもう人生疲れたしODするわ。。。 https://t.co/Z93d9hWWBg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2054197505093718016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH5v02a0AA5-Mg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054197505093718016"
+          ],
+          "media_source_tweet_id": [
+            "2054197513469714683"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054458273701769652",
+        "created_at": "2026-05-13T07:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054458273701769652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1177426106867011584",
+              "start": 3,
+              "username": "buzz_wadai_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z93d9hWWBg",
+              "end": 63,
+              "expanded_url": "https://x.com/buzz_wadai_/status/2054197513469714683/photo/1",
+              "media_key": "3_2054197505093718016",
+              "start": 40,
+              "url": "https://t.co/Z93d9hWWBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458273701769652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054197513469714683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buzz_wadai_: はぁ...\nもう人生疲れたしODするわ。。。 https://t.co/Z93d9hWWBg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054197505093718016"
+          ]
+        },
+        "author_id": "1177426106867011584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054197513469714683",
+        "created_at": "2026-05-12T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054197513469714683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z93d9hWWBg",
+              "end": 46,
+              "expanded_url": "https://x.com/buzz_wadai_/status/2054197513469714683/photo/1",
+              "media_key": "3_2054197505093718016",
+              "start": 23,
+              "url": "https://t.co/Z93d9hWWBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054197513469714683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 41607,
+          "like_count": 1218,
+          "quote_count": 11,
+          "reply_count": 16,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "はぁ...\nもう人生疲れたしODするわ。。。 https://t.co/Z93d9hWWBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓/不回消息就是在上课",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 190,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-27T03:34:17.000Z",
+        "description": "話題のツイートを投稿してます。",
+        "id": "1177426106867011584",
+        "name": "ネットで話題のツイ図鑑",
+        "pinned_tweet_id": "2053377218244702648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026206370505314304/VfxDKOi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38975,
+          "following_count": 6145,
+          "like_count": 86255,
+          "listed_count": 68,
+          "media_count": 4006,
+          "tweet_count": 65317
+        },
+        "username": "buzz_wadai_",
+        "verified": true
+      }
+    ]
+  }
+}

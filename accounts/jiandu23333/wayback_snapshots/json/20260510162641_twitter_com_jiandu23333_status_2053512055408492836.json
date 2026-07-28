@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053512049544888320"
+      ]
+    },
+    "author_id": "289298525",
+    "conversation_id": "2053512055408492836",
+    "created_at": "2026-05-10T16:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053512055408492836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "2039504366755790848",
+          "start": 22,
+          "username": "AsumiBloom"
+        },
+        {
+          "end": 43,
+          "id": "1682793693630304260",
+          "start": 34,
+          "username": "gpSillyB"
+        },
+        {
+          "end": 60,
+          "id": "1433961861028855811",
+          "start": 50,
+          "username": "harukiO_0"
+        },
+        {
+          "end": 81,
+          "id": "1946593949180993536",
+          "start": 67,
+          "username": "RogerDisboard"
+        },
+        {
+          "end": 93,
+          "id": "1823405068034744320",
+          "start": 82,
+          "username": "hown530150"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 121,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 98,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/rqo5Rf2R10"
+        },
+        {
+          "display_url": "pic.x.com/MS6NZ5rMVE",
+          "end": 145,
+          "expanded_url": "https://x.com/jiandu23333/status/2053512055408492836/photo/1",
+          "media_key": "3_2053512049544888320",
+          "start": 122,
+          "url": "https://t.co/MS6NZ5rMVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053512055408492836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @AsumiBloom @gpSillyB\n👰 配偶: @harukiO_0\n👶 孩子: @RogerDisboard @hown530150\n\n➡️ https://t.co/rqo5Rf2R10 https://t.co/MS6NZ5rMVE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2053512049544888320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-KVD8bgAA63NX.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053512049544888320"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2053512055408492836",
+        "created_at": "2026-05-10T16:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053512055408492836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2039504366755790848",
+              "start": 22,
+              "username": "AsumiBloom"
+            },
+            {
+              "end": 43,
+              "id": "1682793693630304260",
+              "start": 34,
+              "username": "gpSillyB"
+            },
+            {
+              "end": 60,
+              "id": "1433961861028855811",
+              "start": 50,
+              "username": "harukiO_0"
+            },
+            {
+              "end": 81,
+              "id": "1946593949180993536",
+              "start": 67,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 93,
+              "id": "1823405068034744320",
+              "start": 82,
+              "username": "hown530150"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 121,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052373162030149632/4Yhj21Wm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/rqo5Rf2R10"
+            },
+            {
+              "display_url": "pic.x.com/MS6NZ5rMVE",
+              "end": 145,
+              "expanded_url": "https://x.com/jiandu23333/status/2053512055408492836/photo/1",
+              "media_key": "3_2053512049544888320",
+              "start": 122,
+              "url": "https://t.co/MS6NZ5rMVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053512055408492836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @AsumiBloom @gpSillyB\n👰 配偶: @harukiO_0\n👶 孩子: @RogerDisboard @hown530150\n\n➡️ https://t.co/rqo5Rf2R10 https://t.co/MS6NZ5rMVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓/不回信息就是在上课",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 146,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "喜欢xnn/xyn丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asumibloom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asumibloom",
+                "start": 0,
+                "url": "https://t.co/I4tM6i6R7O"
+              }
+            ]
+          }
+        },
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 131,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/I4tM6i6R7O",
+        "username": "AsumiBloom",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 154,
+          "like_count": 3995,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 873
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T01:16:00.000Z",
+        "description": "Discord https://t.co/vTxS9mHRQF\nTelegram https://t.co/fgP8zHQD15\nBluesky https://t.co/ShYR9013Di",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/93JRQbNbb2",
+                "end": 31,
+                "expanded_url": "https://discord.gg/93JRQbNbb2",
+                "start": 8,
+                "url": "https://t.co/vTxS9mHRQF"
+              },
+              {
+                "display_url": "t.me/harukiO_0",
+                "end": 64,
+                "expanded_url": "https://t.me/harukiO_0",
+                "start": 41,
+                "url": "https://t.co/fgP8zHQD15"
+              },
+              {
+                "display_url": "bsky.app/profile/haruki…",
+                "end": 96,
+                "expanded_url": "https://bsky.app/profile/haruki.sakiko.top",
+                "start": 73,
+                "url": "https://t.co/ShYR9013Di"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakiko.top",
+                "end": 23,
+                "expanded_url": "https://sakiko.top",
+                "start": 0,
+                "url": "https://t.co/FZ7rSpxXBM"
+              }
+            ]
+          }
+        },
+        "id": "1433961861028855811",
+        "name": "haruki🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997839174578401280/3x7c5IO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 1561,
+          "like_count": 128160,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 4680
+        },
+        "url": "https://t.co/FZ7rSpxXBM",
+        "username": "harukiO_0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2053507517779763254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1008,
+          "like_count": 3944,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 972
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "焦虑中。。。",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 995,
+          "like_count": 12238,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 9393
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

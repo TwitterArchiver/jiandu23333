@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052392566331768833"
+      ]
+    },
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052392569053876301",
+    "created_at": "2026-05-07T14:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052392569053876301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1iuKYfqYS",
+          "end": 61,
+          "expanded_url": "https://x.com/jiandu23333/status/2052392569053876301/photo/1",
+          "media_key": "3_2052392566331768833",
+          "start": 38,
+          "url": "https://t.co/C1iuKYfqYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052392569053876301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "差点炸了喵……\n乙醇蒸汽把塞子都顶起来了\n遇到明火就Boom(´⊙ω⊙`) https://t.co/C1iuKYfqYS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052392566331768833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuQKj_bgAEBQMT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052392566331768833"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052392569053876301",
+        "created_at": "2026-05-07T14:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052392569053876301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1iuKYfqYS",
+              "end": 61,
+              "expanded_url": "https://x.com/jiandu23333/status/2052392569053876301/photo/1",
+              "media_key": "3_2052392566331768833",
+              "start": 38,
+              "url": "https://t.co/C1iuKYfqYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052392569053876301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差点炸了喵……\n乙醇蒸汽把塞子都顶起来了\n遇到明火就Boom(´⊙ω⊙`) https://t.co/C1iuKYfqYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "沃尔玛塑料袋/INTP/06年/轻度游戏爱好/東方/互fo私信/颓废中",
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 82,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 34
+        },
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

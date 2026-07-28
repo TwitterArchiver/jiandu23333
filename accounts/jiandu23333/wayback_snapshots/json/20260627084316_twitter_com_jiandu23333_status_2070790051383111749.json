@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2070754365426807282",
+    "created_at": "2026-06-27T08:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070790051383111749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058743029595516928",
+          "start": 0,
+          "username": "Yun6lyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070790051383111749",
+    "in_reply_to_user_id": "2058743029595516928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070754365426807282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun6lyr 别太多，注意安全……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070754340139364352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzMGd0a8AAhKEy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2070754365426807282",
+        "created_at": "2026-06-27T08:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070790051383111749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058743029595516928",
+              "start": 0,
+              "username": "Yun6lyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070790051383111749",
+        "in_reply_to_user_id": "2058743029595516928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070754365426807282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun6lyr 别太多，注意安全……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070754340139364352"
+          ]
+        },
+        "author_id": "2058743029595516928",
+        "conversation_id": "2070754365426807282",
+        "created_at": "2026-06-27T06:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070754365426807282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdgXLKaaWw",
+              "end": 38,
+              "expanded_url": "https://x.com/Yun6lyr/status/2070754365426807282/photo/1",
+              "media_key": "3_2070754340139364352",
+              "start": 15,
+              "url": "https://t.co/fdgXLKaaWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070754365426807282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o了42t美金刚和22t晚安 https://t.co/fdgXLKaaWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 395,
+          "like_count": 11961,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T02:56:02.000Z",
+        "description": "11年｜双向｜od｜自伤 ｜LGBTQ+友好\n欢迎同类互fo喵",
+        "id": "2058743029595516928",
+        "name": "Yun",
+        "pinned_tweet_id": "2059175757990223921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058751152540581888/Vv5daAvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 126,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Yun6lyr",
+        "verified": false
+      }
+    ]
+  }
+}

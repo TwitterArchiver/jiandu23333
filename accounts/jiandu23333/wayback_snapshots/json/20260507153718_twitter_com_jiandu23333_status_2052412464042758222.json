@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2052411540754854112",
+    "created_at": "2026-05-07T15:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052412464042758222"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052412464042758222",
+    "in_reply_to_user_id": "289298525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052411540754854112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在19fo……🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052411537281961985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuha0Sa0AEaWAF.jpg",
+        "width": 946
+      },
+      {
+        "height": 1389,
+        "media_key": "3_2052411535478464512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuhatkboAAXUVM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2052411540754854112",
+        "created_at": "2026-05-07T15:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052412464042758222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052412464042758222",
+        "in_reply_to_user_id": "289298525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052411540754854112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在19fo……🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052411537281961985",
+            "3_2052411535478464512"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052411540754854112",
+        "created_at": "2026-05-07T15:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052411540754854112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6GKess5R8",
+              "end": 55,
+              "expanded_url": "https://x.com/jiandu23333/status/2052411540754854112/photo/1",
+              "media_key": "3_2052411537281961985",
+              "start": 32,
+              "url": "https://t.co/j6GKess5R8"
+            },
+            {
+              "display_url": "pic.x.com/j6GKess5R8",
+              "end": 55,
+              "expanded_url": "https://x.com/jiandu23333/status/2052411540754854112/photo/1",
+              "media_key": "3_2052411535478464512",
+              "start": 32,
+              "url": "https://t.co/j6GKess5R8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052411540754854112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "東方厨快来关注我呀\n预备20fo\n抽一份\n东方冰之勇者记CDK https://t.co/j6GKess5R8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "沃尔玛塑料袋/INTP/06年/轻度游戏爱好/東方/互fo私信/颓废中",
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 85,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 39
+        },
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

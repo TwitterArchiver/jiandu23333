@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2057509387946889313",
+    "created_at": "2026-05-21T17:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057514173496713513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823195391908814848",
+          "start": 0,
+          "username": "Ann00__1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057514173496713513",
+    "in_reply_to_user_id": "1823195391908814848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057509387946889313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ann00__1 もっと高性能なCPUが必要だね😓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "16_2057509376244756480",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI294GUasAA5J0d.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI294GUasAA5J0d.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2057509387946889313",
+        "created_at": "2026-05-21T17:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057514173496713513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823195391908814848",
+              "start": 0,
+              "username": "Ann00__1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057514173496713513",
+        "in_reply_to_user_id": "1823195391908814848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057509387946889313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ann00__1 もっと高性能なCPUが必要だね😓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057509376244756480"
+          ]
+        },
+        "author_id": "1823195391908814848",
+        "conversation_id": "2057509387946889313",
+        "created_at": "2026-05-21T17:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057509387946889313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QZ039G1D4",
+              "end": 79,
+              "expanded_url": "https://x.com/Ann00__1/status/2057509387946889313/photo/1",
+              "media_key": "16_2057509376244756480",
+              "start": 56,
+              "url": "https://t.co/3QZ039G1D4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057509387946889313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あんな？いいわけじゃないんよ。ダンス踊ろうとしてて、足か手片方ならできるんよ。両方でやろうとすると頭バグんねん https://t.co/3QZ039G1D4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 235,
+          "like_count": 3932,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T03:11:05.000Z",
+        "description": "18↓/東海/159㎝/重加工/無断転載✖︎/ジャンルいっぱい/リトリン→https://t.co/wvH1Eqxkp7日常をつぶやくサブ垢→ https://t.co/hKtSmKguTD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/lity0G/",
+                "end": 60,
+                "expanded_url": "https://lit.link/lity0G/",
+                "start": 37,
+                "url": "https://t.co/wvH1Eqxkp7"
+              },
+              {
+                "display_url": "x.com/tuqo7iqoix2cll…",
+                "end": 95,
+                "expanded_url": "https://x.com/tuqo7iqoix2cllz?s=21",
+                "start": 72,
+                "url": "https://t.co/hKtSmKguTD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "annchan.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://annchan.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/QIQo4ZdKRb"
+              }
+            ]
+          }
+        },
+        "id": "1823195391908814848",
+        "name": "Ann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900185527644778496/jTx-RxYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 228,
+          "like_count": 7189,
+          "listed_count": 17,
+          "media_count": 516,
+          "tweet_count": 3527
+        },
+        "url": "https://t.co/QIQo4ZdKRb",
+        "username": "Ann00__1",
+        "verified": false
+      }
+    ]
+  }
+}

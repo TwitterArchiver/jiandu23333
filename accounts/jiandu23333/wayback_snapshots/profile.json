@@ -1,0 +1,22 @@
+{
+  "name": "饼酱",
+  "username": "@jiandu23333",
+  "bio": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:http://t.me/jiandu23333/ 颓废中/提问箱在这↓/不回消息就是在上课/",
+  "location": "Hong Kong",
+  "link": "https://ngl.link/jiandu23333",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "t.me/jiandu23333/",
+        "end": 83,
+        "expanded_url": "http://t.me/jiandu23333/",
+        "start": 60,
+        "url": "https://t.co/92LpqENzXE"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg"
+}

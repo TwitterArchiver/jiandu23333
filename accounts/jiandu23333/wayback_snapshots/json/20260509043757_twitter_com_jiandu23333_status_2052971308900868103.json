@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2052813583235555781",
+    "created_at": "2026-05-09T04:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052971308900868103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "742366046036725760",
+          "start": 0,
+          "username": "Burmese_day"
+        },
+        {
+          "end": 28,
+          "id": "1956567270739828736",
+          "start": 13,
+          "username": "Truffaut897456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052971308900868103",
+    "in_reply_to_user_id": "289298525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052971110585733546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Burmese_day @Truffaut897456 信这是bug卡出来的吗？🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_2052971108287299584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2eWIuawAAOe5D.jpg",
+        "width": 375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2052813583235555781",
+        "created_at": "2026-05-09T04:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052971308900868103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "742366046036725760",
+              "start": 0,
+              "username": "Burmese_day"
+            },
+            {
+              "end": 28,
+              "id": "1956567270739828736",
+              "start": 13,
+              "username": "Truffaut897456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052971308900868103",
+        "in_reply_to_user_id": "289298525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052971110585733546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Burmese_day @Truffaut897456 信这是bug卡出来的吗？🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052971108287299584"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2052813583235555781",
+        "created_at": "2026-05-09T04:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052971110585733546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "742366046036725760",
+              "start": 0,
+              "username": "Burmese_day"
+            },
+            {
+              "end": 28,
+              "id": "1956567270739828736",
+              "start": 13,
+              "username": "Truffaut897456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8NbtSvIhs",
+              "end": 52,
+              "expanded_url": "https://x.com/jiandu23333/status/2052971110585733546/photo/1",
+              "media_key": "3_2052971108287299584",
+              "start": 29,
+              "url": "https://t.co/p8NbtSvIhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052971110585733546",
+        "in_reply_to_user_id": "742366046036725760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052819868463058944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Burmese_day @Truffaut897456 https://t.co/p8NbtSvIhs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 124,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-13T14:40:32.000Z",
+        "description": "奔三丧偶四爱克夫离异老男人 喜欢可爱的东西！",
+        "id": "742366046036725760",
+        "location": "宛平南路600号",
+        "name": "Schwarze",
+        "pinned_tweet_id": "1983484424420483140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022623126652358657/OPljw3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 4510,
+          "like_count": 28962,
+          "listed_count": 7,
+          "media_count": 2889,
+          "tweet_count": 3133
+        },
+        "username": "Burmese_day",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T04:02:53.000Z",
+        "description": "喜欢电影🎦 喜欢标豆瓣，玩豆瓣的可以私信来互关一下豆瓣，最喜欢恐怖片（意大利铅黄 好莱坞和各种欧美b恐 香港恐怖 日恐），对烂片有瘾，我品味烂爆，各类电影也都会看一点，还有二次元少女乐队特摄古早动画，平时喜欢拍cos和各种拍衣服，照片纯高p，线下丑蛆查无此人，如果撞上请不要骂我呜呜。",
+        "id": "1956567270739828736",
+        "location": "我想吃薯条",
+        "name": "Truffaut",
+        "pinned_tweet_id": "2001567503110279683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036327207875059712/2Y8IZf_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19373,
+          "following_count": 1495,
+          "like_count": 11767,
+          "listed_count": 57,
+          "media_count": 293,
+          "tweet_count": 4916
+        },
+        "username": "Truffaut897456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2063815905319293302",
+    "created_at": "2026-06-08T16:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064017445577453865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058743029595516928",
+          "start": 0,
+          "username": "Yun6lyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064017445577453865",
+    "in_reply_to_user_id": "2058743029595516928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063815905319293302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun6lyr 染发了好好看🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2063815899224887296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQloDMaUAAZOwe.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2063815905319293302",
+        "created_at": "2026-06-08T16:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064017445577453865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058743029595516928",
+              "start": 0,
+              "username": "Yun6lyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064017445577453865",
+        "in_reply_to_user_id": "2058743029595516928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063815905319293302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun6lyr 染发了好好看🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063815899224887296"
+          ]
+        },
+        "author_id": "2058743029595516928",
+        "conversation_id": "2063815905319293302",
+        "created_at": "2026-06-08T02:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063815905319293302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjxVJo8FMe",
+              "end": 23,
+              "expanded_url": "https://x.com/Yun6lyr/status/2063815905319293302/photo/1",
+              "media_key": "3_2063815899224887296",
+              "start": 0,
+              "url": "https://t.co/VjxVJo8FMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063815905319293302",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VjxVJo8FMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 333,
+          "like_count": 8550,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T02:56:02.000Z",
+        "description": "11年｜双向｜od｜自伤 ｜LGBTQ+友好\n欢迎同类互fo喵",
+        "id": "2058743029595516928",
+        "name": "Yun",
+        "pinned_tweet_id": "2059175757990223921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058751152540581888/Vv5daAvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 125,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 74
+        },
+        "username": "Yun6lyr",
+        "verified": false
+      }
+    ]
+  }
+}

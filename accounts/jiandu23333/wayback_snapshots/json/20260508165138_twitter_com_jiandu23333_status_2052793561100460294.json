@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041140828354338817"
+      ],
+      "media_source_tweet_id": [
+        "2041140835933388978"
+      ]
+    },
+    "author_id": "289298525",
+    "conversation_id": "2052793561100460294",
+    "created_at": "2026-05-08T16:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052793561100460294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986291014370545665",
+          "start": 3,
+          "username": "pleasehelp070"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G0FBBvR3eY",
+          "end": 42,
+          "expanded_url": "https://x.com/pleasehelp070/status/2041140835933388978/photo/1",
+          "media_key": "3_2041140828354338817",
+          "start": 19,
+          "url": "https://t.co/G0FBBvR3eY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052793561100460294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041140835933388978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pleasehelp070: https://t.co/G0FBBvR3eY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2041140828354338817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOWxNqbYAEGRqi.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041140828354338817"
+          ],
+          "media_source_tweet_id": [
+            "2041140835933388978"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2052793561100460294",
+        "created_at": "2026-05-08T16:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052793561100460294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986291014370545665",
+              "start": 3,
+              "username": "pleasehelp070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0FBBvR3eY",
+              "end": 42,
+              "expanded_url": "https://x.com/pleasehelp070/status/2041140835933388978/photo/1",
+              "media_key": "3_2041140828354338817",
+              "start": 19,
+              "url": "https://t.co/G0FBBvR3eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052793561100460294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041140835933388978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pleasehelp070: https://t.co/G0FBBvR3eY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041140828354338817"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2041139996955214266",
+        "created_at": "2026-04-06T13:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041140835933388978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0FBBvR3eY",
+              "end": 23,
+              "expanded_url": "https://x.com/pleasehelp070/status/2041140835933388978/photo/1",
+              "media_key": "3_2041140828354338817",
+              "start": 0,
+              "url": "https://t.co/G0FBBvR3eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041140835933388978",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1022,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041139996955214266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/G0FBBvR3eY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 118,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 153,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 629
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

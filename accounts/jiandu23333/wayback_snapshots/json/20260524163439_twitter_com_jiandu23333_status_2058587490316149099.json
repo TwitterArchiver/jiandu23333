@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2058572670447620182",
+    "created_at": "2026-05-24T16:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058587490316149099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039298306309062657",
+          "start": 0,
+          "username": "Yunofd6"
+        },
+        {
+          "end": 25,
+          "id": "1838523253230571521",
+          "start": 9,
+          "username": "54mlXN82Zl30826"
+        },
+        {
+          "end": 35,
+          "id": "1643490407094030338",
+          "start": 26,
+          "username": "Usam8964"
+        },
+        {
+          "end": 45,
+          "id": "2033349756223909888",
+          "start": 36,
+          "username": "VERI2337"
+        },
+        {
+          "end": 60,
+          "id": "1584345319549984776",
+          "start": 46,
+          "username": "mothforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058587490316149099",
+    "in_reply_to_user_id": "2039298306309062657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058572670447620182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunofd6 @54mlXN82Zl30826 @Usam8964 @VERI2337 @mothforever11 妈妈～🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2058572667557662720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGE7zIaUAAz3rZ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2058572670447620182",
+        "created_at": "2026-05-24T16:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058587490316149099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039298306309062657",
+              "start": 0,
+              "username": "Yunofd6"
+            },
+            {
+              "end": 25,
+              "id": "1838523253230571521",
+              "start": 9,
+              "username": "54mlXN82Zl30826"
+            },
+            {
+              "end": 35,
+              "id": "1643490407094030338",
+              "start": 26,
+              "username": "Usam8964"
+            },
+            {
+              "end": 45,
+              "id": "2033349756223909888",
+              "start": 36,
+              "username": "VERI2337"
+            },
+            {
+              "end": 60,
+              "id": "1584345319549984776",
+              "start": 46,
+              "username": "mothforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058587490316149099",
+        "in_reply_to_user_id": "2039298306309062657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058572670447620182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunofd6 @54mlXN82Zl30826 @Usam8964 @VERI2337 @mothforever11 妈妈～🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058572667557662720"
+          ]
+        },
+        "author_id": "2039298306309062657",
+        "conversation_id": "2058572670447620182",
+        "created_at": "2026-05-24T15:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058572670447620182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1838523253230571521",
+              "start": 22,
+              "username": "54mlXN82Zl30826"
+            },
+            {
+              "end": 48,
+              "id": "1643490407094030338",
+              "start": 39,
+              "username": "Usam8964"
+            },
+            {
+              "end": 64,
+              "id": "2033349756223909888",
+              "start": 55,
+              "username": "VERI2337"
+            },
+            {
+              "end": 83,
+              "id": "289298525",
+              "start": 71,
+              "username": "jiandu23333"
+            },
+            {
+              "end": 98,
+              "id": "1584345319549984776",
+              "start": 84,
+              "username": "mothforever11"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 126,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/oyUbkyjLyf"
+            },
+            {
+              "display_url": "pic.x.com/e0jhS30Ncf",
+              "end": 150,
+              "expanded_url": "https://x.com/Yunofd6/status/2058572670447620182/photo/1",
+              "media_key": "3_2058572667557662720",
+              "start": 127,
+              "url": "https://t.co/e0jhS30Ncf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058572670447620182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @54mlXN82Zl30826 @Usam8964\n👰 配偶: @VERI2337\n👶 孩子: @jiandu23333 @mothforever11\n\n➡️ https://t.co/oyUbkyjLyf https://t.co/e0jhS30Ncf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 258,
+          "like_count": 4841,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:07:45.000Z",
+        "description": "11年｜od｜自伤｜双向｜LGBT友好\n欢迎同类互fo喵",
+        "id": "2039298306309062657",
+        "name": "yun",
+        "pinned_tweet_id": "2054160346659926215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049783838252113920/vCrsO79g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 304,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 575
+        },
+        "username": "Yunofd6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T10:18:18.000Z",
+        "description": "我係陰暗又惡心嘅下水道老鼠",
+        "id": "1838523253230571521",
+        "location": "Hong Kong",
+        "name": "屍體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006087511513391110/lxNj71CY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 411,
+          "like_count": 5640,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 364
+        },
+        "username": "54mlXN82Zl30826",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 1247,
+          "like_count": 60707,
+          "listed_count": 6,
+          "media_count": 519,
+          "tweet_count": 7337
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T01:09:05.000Z",
+        "description": "我對不起所有人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/search/results…",
+                "end": 23,
+                "expanded_url": "http://open.spotify.com/search/results/Empathy",
+                "start": 0,
+                "url": "https://t.co/HMkygreske"
+              }
+            ]
+          }
+        },
+        "id": "2033349756223909888",
+        "location": "第三高原",
+        "name": "TPG72",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052412296358674432/SxtrrZwo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 26,
+          "like_count": 4251,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/HMkygreske",
+        "username": "VERI2337",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T00:46:09.000Z",
+        "description": "♂ /23./ENFP/慕残\n喜欢聊天交友\n疯子一个/极端保护者和极端破坏者\n喜欢听各种故事\n🇨🇳/🇯🇵/🇺🇸  \n原账号@feizhengchang11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "feizhengchang11"
+              }
+            ]
+          }
+        },
+        "id": "1584345319549984776",
+        "location": "2.8km",
+        "name": "moth",
+        "pinned_tweet_id": "1969687721783574896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973002506600136704/KAifjoM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1078,
+          "like_count": 3761,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 338
+        },
+        "username": "mothforever11",
+        "verified": false
+      }
+    ]
+  }
+}

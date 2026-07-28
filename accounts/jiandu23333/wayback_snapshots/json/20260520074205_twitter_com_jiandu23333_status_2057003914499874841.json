@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2057003914499874841",
+    "created_at": "2026-05-20T07:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057003914499874841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2056759110901944321",
+          "start": 3,
+          "username": "jiandu233333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057003914499874841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056773458760216617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiandu233333: 原因是这样的我从其他平台淘的账号两个账号注册年分都是2011年然后我改了生日到2006年然后他就判定我未满13岁他这个判定是按注册年份算的（👿）无语😒msk快改改你这💩山代码吧！👿👿👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2057003914499874841",
+        "created_at": "2026-05-20T07:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057003914499874841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2056759110901944321",
+              "start": 3,
+              "username": "jiandu233333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057003914499874841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056773458760216617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiandu233333: 原因是这样的我从其他平台淘的账号两个账号注册年分都是2011年然后我改了生日到2006年然后他就判定我未满13岁他这个判定是按注册年份算的（👿）无语😒msk快改改你这💩山代码吧！👿👿👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056759110901944321",
+        "conversation_id": "2056773458760216617",
+        "created_at": "2026-05-19T16:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056773458760216617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056773458760216617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原因是这样的我从其他平台淘的账号两个账号注册年分都是2011年然后我改了生日到2006年然后他就判定我未满13岁他这个判定是按注册年份算的（👿）无语😒msk快改改你这💩山代码吧！👿👿👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 75,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 52,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 225,
+          "like_count": 3384,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T15:30:11.000Z",
+        "description": "顺男/大一/2006.11.06出厂/INTP/东方/不知道怎么回事的三代目/轻度游戏爱好者/不回消息就是在上课/互fo寻回中/应急:https://t.co/7Qq3s66x4U提问箱↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 90,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 67,
+                "url": "https://t.co/7Qq3s66x4U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/yjfiEJ5OeB"
+              }
+            ]
+          }
+        },
+        "id": "2056759110901944321",
+        "location": "Hong Kong",
+        "name": "饼酱·三世",
+        "pinned_tweet_id": "2056787033390260232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056759618534313984/jZszXcDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/yjfiEJ5OeB",
+        "username": "jiandu233333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052789424245886978"
+      ]
+    },
+    "author_id": "289298525",
+    "conversation_id": "2052533436385235082",
+    "created_at": "2026-05-08T16:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052789427207066084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986291014370545665",
+          "start": 0,
+          "username": "pleasehelp070"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F7IqRpj1rT",
+          "end": 59,
+          "expanded_url": "https://x.com/jiandu23333/status/2052789427207066084/photo/1",
+          "media_key": "3_2052789424245886978",
+          "start": 36,
+          "url": "https://t.co/F7IqRpj1rT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052789427207066084",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052533436385235082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pleasehelp070 卡旺卡芒果爽只不过一些地方没有……🤤🤤🤤 https://t.co/F7IqRpj1rT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052789424245886978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz5Gu7a0AIA-LP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052789424245886978"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2052533436385235082",
+        "created_at": "2026-05-08T16:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052789427207066084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7IqRpj1rT",
+              "end": 59,
+              "expanded_url": "https://x.com/jiandu23333/status/2052789427207066084/photo/1",
+              "media_key": "3_2052789424245886978",
+              "start": 36,
+              "url": "https://t.co/F7IqRpj1rT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052789427207066084",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052533436385235082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 卡旺卡芒果爽只不过一些地方没有……🤤🤤🤤 https://t.co/F7IqRpj1rT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052533436385235082",
+        "created_at": "2026-05-07T23:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052533436385235082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052533436385235082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1053,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有好喝的奶茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 117,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 153,
+          "like_count": 2479,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 629
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

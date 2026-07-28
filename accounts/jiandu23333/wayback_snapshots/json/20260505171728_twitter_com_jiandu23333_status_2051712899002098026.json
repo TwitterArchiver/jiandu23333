@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2051712899002098026",
+    "created_at": "2026-05-05T17:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051712899002098026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048119533668630529",
+          "start": 3,
+          "username": "Xuegaoct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051712899002098026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050842438269608195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xuegaoct: 3000fo福利抽奖♪\n一等奖：价值188🚪 共一份；\n二等奖：价值52🚪 共两份；\n三等奖：奶茶18.88r 共三份；\n幸运奖：5.2r 共五份\n参与方式：关注+点赞+转帖\n届时将于5月6日开奖～中奖的我会私信联系您，注意保持通信畅通哦^_−☆\n入…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2026,
+        "media_key": "3_2050842429713219584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYOUvFbAAAfe8J.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2051712899002098026",
+        "created_at": "2026-05-05T17:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051712899002098026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048119533668630529",
+              "start": 3,
+              "username": "Xuegaoct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051712899002098026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050842438269608195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xuegaoct: 3000fo福利抽奖♪\n一等奖：价值188🚪 共一份；\n二等奖：价值52🚪 共两份；\n三等奖：奶茶18.88r 共三份；\n幸运奖：5.2r 共五份\n参与方式：关注+点赞+转帖\n届时将于5月6日开奖～中奖的我会私信联系您，注意保持通信畅通哦^_−☆\n入…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050842429713219584"
+          ]
+        },
+        "author_id": "2048119533668630529",
+        "conversation_id": "2050842438269608195",
+        "created_at": "2026-05-03T07:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050842438269608195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2acTyFX9AU",
+              "end": 186,
+              "expanded_url": "https://x.com/Xuegaoct/status/2050842438269608195/photo/1",
+              "media_key": "3_2050842429713219584",
+              "start": 163,
+              "url": "https://t.co/2acTyFX9AU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050842438269608195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7987,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "3000fo福利抽奖♪\n一等奖：价值188🚪 共一份；\n二等奖：价值52🚪 共两份；\n三等奖：奶茶18.88r 共三份；\n幸运奖：5.2r 共五份\n参与方式：关注+点赞+转帖\n届时将于5月6日开奖～中奖的我会私信联系您，注意保持通信畅通哦^_−☆\n入过🚪的中奖后可以折现～我私信后24h以上未回复的名额作废重抽( ；´Д｀) https://t.co/2acTyFX9AU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "沃尔玛塑料袋/INTP/06年/轻度游戏爱好/東方/互fo私信",
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱（重生之未满13岁）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 52,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 25
+        },
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T19:19:34.000Z",
+        "description": "喜欢甜甜的小蛋糕和一切美食！爱打游戏的私斋 私信默认看过置顶 不线下不约炮不卡泡求求你们了我只是一个找不到工作的苦逼大学生\n@bngbng11223避难所！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "bngbng11223"
+              }
+            ]
+          }
+        },
+        "id": "2048119533668630529",
+        "location": "🚪52/188",
+        "name": "雪糕",
+        "pinned_tweet_id": "2050441648962974070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048119865668780032/EZktVdYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 9,
+          "media_count": 14,
+          "tweet_count": 122
+        },
+        "username": "Xuegaoct",
+        "verified": false
+      }
+    ]
+  }
+}

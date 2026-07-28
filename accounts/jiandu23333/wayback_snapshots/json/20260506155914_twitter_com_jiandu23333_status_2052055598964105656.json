@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2052055598964105656",
+    "created_at": "2026-05-06T15:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052055598964105656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "289298525",
+          "start": 3,
+          "username": "jiandu23333"
+        }
+      ],
+      "urls": [
+        {
+          "description": "熟肉是一个学生喝了两瓶非处方止咳糖浆，这是她的大脑发生的变化的第1集视频，该合集共计2集，视频收藏或关注UP主，及时了解更多相关视频内容。",
+          "display_url": "b23.tv/TV55XN1",
+          "end": 92,
+          "expanded_url": "https://b23.tv/TV55XN1",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2052054646307627009/HFZ8AcVP?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2052054646307627009/HFZ8AcVP?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "熟肉_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1BK4y1R7pN/?buvid=XU1D9A81F04F54CB8D487DB554F979F65D5C8&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=L%2B1igxI%2FCT77a11lg7qjYw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=761bc48d-6dc4-4098-82cb-5d6b402be839&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1778081348&unique_k=TV55XN1&up_id=297786973",
+          "url": "https://t.co/8sORGc6fIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052055598964105656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052054595686506586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiandu23333: 关于右美沙芬的一些知识\n说真的我学生物的看了这个都头大……\n视频发布时间为2021年此时还为非处方药\n https://t.co/8sORGc6fIw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2052055598964105656",
+        "created_at": "2026-05-06T15:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052055598964105656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "289298525",
+              "start": 3,
+              "username": "jiandu23333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "熟肉是一个学生喝了两瓶非处方止咳糖浆，这是她的大脑发生的变化的第1集视频，该合集共计2集，视频收藏或关注UP主，及时了解更多相关视频内容。",
+              "display_url": "b23.tv/TV55XN1",
+              "end": 92,
+              "expanded_url": "https://b23.tv/TV55XN1",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2052054646307627009/HFZ8AcVP?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2052054646307627009/HFZ8AcVP?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "熟肉_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1BK4y1R7pN/?buvid=XU1D9A81F04F54CB8D487DB554F979F65D5C8&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=L%2B1igxI%2FCT77a11lg7qjYw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=761bc48d-6dc4-4098-82cb-5d6b402be839&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1778081348&unique_k=TV55XN1&up_id=297786973",
+              "url": "https://t.co/8sORGc6fIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052055598964105656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052054595686506586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiandu23333: 关于右美沙芬的一些知识\n说真的我学生物的看了这个都头大……\n视频发布时间为2021年此时还为非处方药\n https://t.co/8sORGc6fIw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2052054595686506586",
+        "created_at": "2026-05-06T15:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052054595686506586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "熟肉是一个学生喝了两瓶非处方止咳糖浆，这是她的大脑发生的变化的第1集视频，该合集共计2集，视频收藏或关注UP主，及时了解更多相关视频内容。",
+              "display_url": "b23.tv/TV55XN1",
+              "end": 75,
+              "expanded_url": "https://b23.tv/TV55XN1",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2052054646307627009/HFZ8AcVP?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2052054646307627009/HFZ8AcVP?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "熟肉_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1BK4y1R7pN/?buvid=XU1D9A81F04F54CB8D487DB554F979F65D5C8&from_spmid=main.space-contribution.0.0&is_story_h5=false&mid=L%2B1igxI%2FCT77a11lg7qjYw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=761bc48d-6dc4-4098-82cb-5d6b402be839&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1778081348&unique_k=TV55XN1&up_id=297786973",
+              "url": "https://t.co/8sORGc6fIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052054595686506586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于右美沙芬的一些知识\n说真的我学生物的看了这个都头大……\n视频发布时间为2021年此时还为非处方药\n https://t.co/8sORGc6fIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "沃尔玛塑料袋/INTP/06年/轻度游戏爱好/東方/互fo私信",
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 72,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 28
+        },
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051410591148052480",
+        "3_2051410591160705024",
+        "3_2051410591122849792"
+      ]
+    },
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051410750938435943",
+    "created_at": "2026-05-04T21:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T22:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051410750938435943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7aZ7vPyG9r",
+          "end": 39,
+          "expanded_url": "https://x.com/jiandu23333/status/2051410750938435943/photo/1",
+          "media_key": "3_2051410591148052480",
+          "start": 16,
+          "url": "https://t.co/7aZ7vPyG9r"
+        },
+        {
+          "display_url": "pic.x.com/7aZ7vPyG9r",
+          "end": 39,
+          "expanded_url": "https://x.com/jiandu23333/status/2051410750938435943/photo/1",
+          "media_key": "3_2051410591160705024",
+          "start": 16,
+          "url": "https://t.co/7aZ7vPyG9r"
+        },
+        {
+          "display_url": "pic.x.com/7aZ7vPyG9r",
+          "end": 39,
+          "expanded_url": "https://x.com/jiandu23333/status/2051410750938435943/photo/1",
+          "media_key": "3_2051410591122849792",
+          "start": 16,
+          "url": "https://t.co/7aZ7vPyG9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051410750938435943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小糖人爱音&amp;何意味面馆 https://t.co/7aZ7vPyG9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_2051410591148052480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgTEFXakAAvFvG.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1195,
+        "media_key": "3_2051410591160705024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgTEFaboAA-XLx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1195,
+        "media_key": "3_2051410591122849792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgTEFRaAAACuv1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051410591148052480",
+            "3_2051410591160705024",
+            "3_2051410591122849792"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051410750938435943",
+        "created_at": "2026-05-04T21:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051410750938435943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aZ7vPyG9r",
+              "end": 39,
+              "expanded_url": "https://x.com/jiandu23333/status/2051410750938435943/photo/1",
+              "media_key": "3_2051410591148052480",
+              "start": 16,
+              "url": "https://t.co/7aZ7vPyG9r"
+            },
+            {
+              "display_url": "pic.x.com/7aZ7vPyG9r",
+              "end": 39,
+              "expanded_url": "https://x.com/jiandu23333/status/2051410750938435943/photo/1",
+              "media_key": "3_2051410591160705024",
+              "start": 16,
+              "url": "https://t.co/7aZ7vPyG9r"
+            },
+            {
+              "display_url": "pic.x.com/7aZ7vPyG9r",
+              "end": 39,
+              "expanded_url": "https://x.com/jiandu23333/status/2051410750938435943/photo/1",
+              "media_key": "3_2051410591122849792",
+              "start": 16,
+              "url": "https://t.co/7aZ7vPyG9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051410750938435943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小糖人爱音&amp;何意味面馆 https://t.co/7aZ7vPyG9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "沃尔玛塑料袋/INTP/06年/轻度游戏爱好/東方/互fo私信",
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱（重生之未满13岁）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 16
+        },
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

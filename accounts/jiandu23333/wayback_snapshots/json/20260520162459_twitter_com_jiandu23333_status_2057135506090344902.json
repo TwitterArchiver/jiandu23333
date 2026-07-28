@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2057135506090344902",
+    "created_at": "2026-05-20T16:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057135506090344902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794306281572118528",
+          "start": 3,
+          "username": "520maodou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057135506090344902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056967001902563455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520maodou: 520🍥🏳️‍⚧️抽奖活动来了喵~\n\n抽奖时间:5月20日13：14~5月21日13：14\n要求:评论+转发+关注+点赞\n奖品:30r(对标一盒补佳乐喵)\n抽取人数:3人\n评选机制:截止时间5月21日13：14，\n将符合要求的人员进行排序并使用gr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2056966994596122624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvQlVOa0AA_9c4.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2057135506090344902",
+        "created_at": "2026-05-20T16:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057135506090344902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794306281572118528",
+              "start": 3,
+              "username": "520maodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057135506090344902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056967001902563455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520maodou: 520🍥🏳️‍⚧️抽奖活动来了喵~\n\n抽奖时间:5月20日13：14~5月21日13：14\n要求:评论+转发+关注+点赞\n奖品:30r(对标一盒补佳乐喵)\n抽取人数:3人\n评选机制:截止时间5月21日13：14，\n将符合要求的人员进行排序并使用gr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056966994596122624"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2056967001902563455",
+        "created_at": "2026-05-20T05:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056967001902563455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voEK02Fy5m",
+              "end": 182,
+              "expanded_url": "https://x.com/520maodou/status/2056967001902563455/photo/1",
+              "media_key": "3_2056966994596122624",
+              "start": 159,
+              "url": "https://t.co/voEK02Fy5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056967001902563455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4389,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "520🍥🏳️‍⚧️抽奖活动来了喵~\n\n抽奖时间:5月20日13：14~5月21日13：14\n要求:评论+转发+关注+点赞\n奖品:30r(对标一盒补佳乐喵)\n抽取人数:3人\n评选机制:截止时间5月21日13：14，\n将符合要求的人员进行排序并使用grok随机抽选出一位获奖者😊😊😊\n\n5月22日13：14会公布获奖人喵 https://t.co/voEK02Fy5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 75,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 52,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 227,
+          "like_count": 3536,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF喵~\n生产日期07.4 | 无证含糖 | HRT 26.5.4  |26.5.15已炸柜 | 大一数学系新生一枚|「坐标杭州」 |181cm 57kg | 爱好数学与信息技术 欢迎同好友好交流😀| 支持新自由主义🏳️‍⚧️  可适当键政（不是粉红喵～）这里可以通过Telegram联系本喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xingbiepingdeng",
+                "end": 23,
+                "expanded_url": "https://t.me/xingbiepingdeng",
+                "start": 0,
+                "url": "https://t.co/AEgmmmLnGi"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "location": "浙江 杭州",
+        "name": "毛豆酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053460035469258752/gGYtCmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 168,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/AEgmmmLnGi",
+        "username": "520maodou",
+        "verified": false
+      }
+    ]
+  }
+}

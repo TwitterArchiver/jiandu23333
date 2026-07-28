@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053374908038807552"
+      ]
+    },
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053374911025184782",
+    "created_at": "2026-05-10T07:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053374911025184782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1433961861028855811",
+          "start": 22,
+          "username": "harukiO_0"
+        },
+        {
+          "end": 41,
+          "id": "1764195010986274816",
+          "start": 33,
+          "username": "CCA8798"
+        },
+        {
+          "end": 62,
+          "id": "1946593949180993536",
+          "start": 48,
+          "username": "RogerDisboard"
+        },
+        {
+          "end": 80,
+          "id": "1823405068034744320",
+          "start": 69,
+          "username": "hown530150"
+        },
+        {
+          "end": 92,
+          "id": "2039504366755790848",
+          "start": 81,
+          "username": "AsumiBloom"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree",
+          "end": 120,
+          "expanded_url": "https://infinitetweet.me/family-tree",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2051219684318736384/Su3wBUG_?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051219684318736384/Su3wBUG_?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree",
+          "url": "https://t.co/amvvfXB2jq"
+        },
+        {
+          "display_url": "pic.x.com/RMdmdTADKG",
+          "end": 144,
+          "expanded_url": "https://x.com/jiandu23333/status/2053374911025184782/photo/1",
+          "media_key": "3_2053374908038807552",
+          "start": 121,
+          "url": "https://t.co/RMdmdTADKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053374911025184782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @harukiO_0 @CCA8798\n👰 配偶: @RogerDisboard\n👶 孩子: @hown530150 @AsumiBloom\n\n➡️ https://t.co/amvvfXB2jq https://t.co/RMdmdTADKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2053374908038807552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8NmYBagAABo-c.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053374908038807552"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053374911025184782",
+        "created_at": "2026-05-10T07:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053374911025184782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1433961861028855811",
+              "start": 22,
+              "username": "harukiO_0"
+            },
+            {
+              "end": 41,
+              "id": "1764195010986274816",
+              "start": 33,
+              "username": "CCA8798"
+            },
+            {
+              "end": 62,
+              "id": "1946593949180993536",
+              "start": 48,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 80,
+              "id": "1823405068034744320",
+              "start": 69,
+              "username": "hown530150"
+            },
+            {
+              "end": 92,
+              "id": "2039504366755790848",
+              "start": 81,
+              "username": "AsumiBloom"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree",
+              "end": 120,
+              "expanded_url": "https://infinitetweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2051219684318736384/Su3wBUG_?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051219684318736384/Su3wBUG_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree",
+              "url": "https://t.co/amvvfXB2jq"
+            },
+            {
+              "display_url": "pic.x.com/RMdmdTADKG",
+              "end": 144,
+              "expanded_url": "https://x.com/jiandu23333/status/2053374911025184782/photo/1",
+              "media_key": "3_2053374908038807552",
+              "start": 121,
+              "url": "https://t.co/RMdmdTADKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053374911025184782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @harukiO_0 @CCA8798\n👰 配偶: @RogerDisboard\n👶 孩子: @hown530150 @AsumiBloom\n\n➡️ https://t.co/amvvfXB2jq https://t.co/RMdmdTADKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 139,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T01:16:00.000Z",
+        "description": "Discord https://t.co/vTxS9mHRQF\nTelegram https://t.co/fgP8zHQD15\nBluesky https://t.co/ShYR9013Di",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/93JRQbNbb2",
+                "end": 31,
+                "expanded_url": "https://discord.gg/93JRQbNbb2",
+                "start": 8,
+                "url": "https://t.co/vTxS9mHRQF"
+              },
+              {
+                "display_url": "t.me/harukiO_0",
+                "end": 64,
+                "expanded_url": "https://t.me/harukiO_0",
+                "start": 41,
+                "url": "https://t.co/fgP8zHQD15"
+              },
+              {
+                "display_url": "bsky.app/profile/haruki…",
+                "end": 96,
+                "expanded_url": "https://bsky.app/profile/haruki.sakiko.top",
+                "start": 73,
+                "url": "https://t.co/ShYR9013Di"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakiko.top",
+                "end": 23,
+                "expanded_url": "https://sakiko.top",
+                "start": 0,
+                "url": "https://t.co/FZ7rSpxXBM"
+              }
+            ]
+          }
+        },
+        "id": "1433961861028855811",
+        "name": "haruki🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997839174578401280/3x7c5IO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1562,
+          "like_count": 128149,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 4679
+        },
+        "url": "https://t.co/FZ7rSpxXBM",
+        "username": "harukiO_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党？) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 (OD?)(双相?)重抑中焦 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(何意味版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1102,
+          "like_count": 14794,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2051671400424108484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1004,
+          "like_count": 3875,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 958
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "焦虑中。。。",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 993,
+          "like_count": 12212,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 9380
+        },
+        "username": "hown530150",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T00:45:24.000Z",
+        "description": "喜欢xnn/xyn丨求互fo丨INFP/ISFP丨26.4.8螺+凝胶丨中度社恐丨重度失眠丨长期内不会紫砂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/asumibloom",
+                "end": 23,
+                "expanded_url": "https://ngl.link/asumibloom",
+                "start": 0,
+                "url": "https://t.co/I4tM6i6R7O"
+              }
+            ]
+          }
+        },
+        "id": "2039504366755790848",
+        "name": "澄花🍥",
+        "pinned_tweet_id": "2039916482445124085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039732354839871489/pX1wI3ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 131,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/I4tM6i6R7O",
+        "username": "AsumiBloom",
+        "verified": false
+      }
+    ]
+  }
+}

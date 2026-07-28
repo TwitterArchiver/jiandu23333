@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2053557407750717594",
+    "created_at": "2026-05-10T19:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053557407750717594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minecraft/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Minecraft/status/2053549215259738186",
+          "start": 10,
+          "url": "https://t.co/BlaqroKluH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053557407750717594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053549215259738186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "官方O大了吗？😥😅 https://t.co/BlaqroKluH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2053557407750717594",
+        "created_at": "2026-05-10T19:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053557407750717594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minecraft/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Minecraft/status/2053549215259738186",
+              "start": 10,
+              "url": "https://t.co/BlaqroKluH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053557407750717594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053549215259738186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "官方O大了吗？😥😅 https://t.co/BlaqroKluH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "64565898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2053549215259738186",
+        "created_at": "2026-05-10T18:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053549215259738186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053549215259738186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 22535,
+          "like_count": 951,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "OK SO IT SEEMS AS THOUGH THE FENCE HOLDING IN MY CHICKEN FARM HAS BROKE HAS ANYONE SEEN OH MY GO🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔THE🐔RES 🐔🐔SO MAN🐔Y🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔🐔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/東方/互fo私信/颓废中/提问箱在这↓/不回消息就是在上课",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 150,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-11T00:22:27.000Z",
+        "description": "Survive the night, or build a work of art. News, game updates, and all things Minecraft. ESRB RATING: EVERYONE 10+ with Fantasy Violence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minecraft",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minecraft",
+                "start": 0,
+                "url": "https://t.co/lzbvMhLfT8"
+              }
+            ]
+          }
+        },
+        "id": "64565898",
+        "location": "Stockholm, Sweden",
+        "name": "Minecraft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046974375430144000/G4-Wil7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7701272,
+          "following_count": 60,
+          "like_count": 1753,
+          "listed_count": 5756,
+          "media_count": 3427,
+          "tweet_count": 5200
+        },
+        "url": "https://t.co/lzbvMhLfT8",
+        "username": "Minecraft",
+        "verified": true
+      }
+    ]
+  }
+}
