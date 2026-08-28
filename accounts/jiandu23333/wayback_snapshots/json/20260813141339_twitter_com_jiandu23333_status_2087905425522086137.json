@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087905213722288128"
+      ]
+    },
+    "author_id": "289298525",
+    "conversation_id": "2087905425522086137",
+    "created_at": "2026-08-13T14:13:39.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087905425522086137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJvZRivk3Y",
+          "end": 41,
+          "expanded_url": "https://x.com/jiandu23333/status/2087905425522086137/photo/1",
+          "media_key": "3_2087905213722288128",
+          "start": 18,
+          "url": "https://t.co/yJvZRivk3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087905425522086137",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087905213722288128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打开钱包发现一只波奇酱和一只皮卡丘 https://t.co/yJvZRivk3Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2087905213722288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm6usyaYAAEvos.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087905213722288128"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2087905425522086137",
+        "created_at": "2026-08-13T14:13:39.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087905425522086137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJvZRivk3Y",
+              "end": 41,
+              "expanded_url": "https://x.com/jiandu23333/status/2087905425522086137/photo/1",
+              "media_key": "3_2087905213722288128",
+              "start": 18,
+              "url": "https://t.co/yJvZRivk3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087905425522086137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087905213722288128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开钱包发现一只波奇酱和一只皮卡丘 https://t.co/yJvZRivk3Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 80,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 57,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087905425522086137",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 453,
+          "like_count": 15824,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

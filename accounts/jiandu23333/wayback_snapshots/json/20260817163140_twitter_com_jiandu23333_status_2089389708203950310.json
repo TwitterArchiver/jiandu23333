@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089389697655341060"
+      ]
+    },
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089389708203950310",
+    "created_at": "2026-08-17T16:31:40.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089389708203950310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2I1igUNTFq",
+          "end": 45,
+          "expanded_url": "https://x.com/jiandu23333/status/2089389708203950310/photo/1",
+          "media_key": "3_2089389697655341060",
+          "start": 22,
+          "url": "https://t.co/2I1igUNTFq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089389708203950310",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089389697655341060"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要从轻度游戏爱好者转变为游戏收藏者了…… https://t.co/2I1igUNTFq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089389697655341060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8A3CYbgAQyIe5.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089389697655341060"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089389708203950310",
+        "created_at": "2026-08-17T16:31:40.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089389708203950310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2I1igUNTFq",
+              "end": 45,
+              "expanded_url": "https://x.com/jiandu23333/status/2089389708203950310/photo/1",
+              "media_key": "3_2089389697655341060",
+              "start": 22,
+              "url": "https://t.co/2I1igUNTFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089389708203950310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089389697655341060"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要从轻度游戏爱好者转变为游戏收藏者了…… https://t.co/2I1igUNTFq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 80,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 57,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089389708203950310",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 467,
+          "like_count": 16405,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

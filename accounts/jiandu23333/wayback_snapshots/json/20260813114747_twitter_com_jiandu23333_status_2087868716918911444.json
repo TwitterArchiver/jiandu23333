@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2087454882853015939",
+    "created_at": "2026-08-13T11:47:47.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087868716918911444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087868716918911444",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087454882853015939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 恭喜🎉～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087454485958541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPggy5BawAAga6H.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2087454864347648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPghI6oaUAAsz72.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-13T11:47:47.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087868716918911444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087868716918911444",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087454882853015939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 恭喜🎉～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087454485958541312",
+            "3_2087454864347648000"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-12T08:23:21.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087454882853015939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454485958541312",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            },
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454864347648000",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087454882853015939",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087454485958541312"
+          },
+          {
+            "media_key": "3_2087454864347648000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份\n参与奖:Q群发送10元拼手气群红包（共计10个）\n\n参与抽取奖励方式:关注，转帖，评论，将会在评论区内用Grok进行随机抽取\n\n开奖时间:8.16"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1738,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份 https://t.co/sj2pvbuGwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 80,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 57,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087868716918911444",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 451,
+          "like_count": 15782,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2087856706457866476",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 311,
+          "like_count": 2497,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

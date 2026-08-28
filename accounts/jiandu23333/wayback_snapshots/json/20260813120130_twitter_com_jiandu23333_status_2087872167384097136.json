@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087872152787877888"
+      ]
+    },
+    "author_id": "289298525",
+    "conversation_id": "2087817932097094121",
+    "created_at": "2026-08-13T12:01:30.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087872167384097136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZwWNxa1D1b",
+          "end": 52,
+          "expanded_url": "https://x.com/jiandu23333/status/2087872167384097136/photo/1",
+          "media_key": "3_2087872152787877888",
+          "start": 29,
+          "url": "https://t.co/ZwWNxa1D1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087872167384097136",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087872152787877888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087817932097094121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 软件app有时候是edge浏览器 https://t.co/ZwWNxa1D1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087872152787877888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmcqTNaAAAhU6o.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 17667,
+        "height": 1610,
+        "media_key": "13_2087817795668959232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087817795668959232/img/DglRvd12zjMcrA6q.jpg",
+        "public_metrics": {
+          "view_count": 1778
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/vid/avc1/320x714/T2o8iiD_hjoVZ8bg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/vid/avc1/480x1072/lRbSZ0yaiyqFYx5i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/vid/avc1/720x1610/x0V0BpMXUzAAYObD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/pl/1iO8WGxJewEOwvqI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087872152787877888"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2087817932097094121",
+        "created_at": "2026-08-13T12:01:30.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087872167384097136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwWNxa1D1b",
+              "end": 52,
+              "expanded_url": "https://x.com/jiandu23333/status/2087872167384097136/photo/1",
+              "media_key": "3_2087872152787877888",
+              "start": 29,
+              "url": "https://t.co/ZwWNxa1D1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087872167384097136",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087872152787877888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087817932097094121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 软件app有时候是edge浏览器 https://t.co/ZwWNxa1D1b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087817795668959232"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2087817932097094121",
+        "created_at": "2026-08-13T08:25:59.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087817932097094121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeqrPT2V8K",
+              "end": 36,
+              "expanded_url": "https://x.com/LingYu0612/status/2087817932097094121/video/1",
+              "media_key": "13_2087817795668959232",
+              "start": 13,
+              "url": "https://t.co/KeqrPT2V8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087817932097094121",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087817795668959232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3852,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说大家都是怎么上推的? https://t.co/KeqrPT2V8K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/顺男/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 80,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 57,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2087872167384097136",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 451,
+          "like_count": 15797,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2087856706457866476",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 311,
+          "like_count": 2499,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
