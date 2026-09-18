@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096617047061057536",
+        "3_2096617197078806529"
+      ]
+    },
+    "author_id": "289298525",
+    "conversation_id": "2096617243044180110",
+    "created_at": "2026-09-06T15:11:18.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096617243044180110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/77F9S60w31",
+          "end": 57,
+          "expanded_url": "https://x.com/jiandu23333/status/2096617243044180110/video/1",
+          "media_key": "13_2096617047061057536",
+          "start": 34,
+          "url": "https://t.co/77F9S60w31"
+        },
+        {
+          "display_url": "pic.x.com/77F9S60w31",
+          "end": 57,
+          "expanded_url": "https://x.com/jiandu23333/status/2096617243044180110/video/1",
+          "media_key": "3_2096617197078806529",
+          "start": 34,
+          "url": "https://t.co/77F9S60w31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096617243044180110",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096617047061057536"
+      },
+      {
+        "media_key": "3_2096617197078806529"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我的索尼ZV-E10给你们看下它的卡姿兰大眼睛，和我的自拍…… https://t.co/77F9S60w31"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5256,
+        "height": 1280,
+        "media_key": "13_2096617047061057536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096617047061057536/img/6Wdixgb5XBQxzNuN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096617047061057536/vid/avc1/320x568/iGBY0NVuxYNvw2oH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096617047061057536/vid/avc1/480x852/-l591Ezy-M2fNXYk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096617047061057536/vid/avc1/720x1280/pXrWRc7kNY2zp061.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096617047061057536/pl/e26dGddjOUrbcwO0.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2096617197078806529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiuO33bgAE47ZE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096617047061057536",
+            "3_2096617197078806529"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2096617243044180110",
+        "created_at": "2026-09-06T15:11:18.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096617243044180110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77F9S60w31",
+              "end": 57,
+              "expanded_url": "https://x.com/jiandu23333/status/2096617243044180110/video/1",
+              "media_key": "13_2096617047061057536",
+              "start": 34,
+              "url": "https://t.co/77F9S60w31"
+            },
+            {
+              "display_url": "pic.x.com/77F9S60w31",
+              "end": 57,
+              "expanded_url": "https://x.com/jiandu23333/status/2096617243044180110/video/1",
+              "media_key": "3_2096617197078806529",
+              "start": 34,
+              "url": "https://t.co/77F9S60w31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096617243044180110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096617047061057536"
+          },
+          {
+            "media_key": "3_2096617197078806529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的索尼ZV-E10给你们看下它的卡姿兰大眼睛，和我的自拍…… https://t.co/77F9S60w31"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 77,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 54,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096617243044180110",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 518,
+          "like_count": 17841,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

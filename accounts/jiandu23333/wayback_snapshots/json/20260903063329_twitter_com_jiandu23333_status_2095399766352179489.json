@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093758398718500864"
+      ],
+      "media_source_tweet_id": [
+        "2093758404745646084"
+      ]
+    },
+    "author_id": "289298525",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095399766352179489",
+    "created_at": "2026-09-03T06:33:29.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T07:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095399766352179489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2093756395527270400",
+          "start": 3,
+          "username": "Yuri_TvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/87xJebmtXR",
+          "end": 65,
+          "expanded_url": "https://x.com/Yuri_TvT/status/2093758404745646084/photo/1",
+          "media_key": "3_2093758398718500864",
+          "start": 42,
+          "url": "https://t.co/87xJebmtXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095399766352179489",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093758398718500864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093758404745646084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuri_TvT: 我回来了(＞人＜;)\n还有人记得我吗 大号应该回不来啦 https://t.co/87xJebmtXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093758398718500864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6GK6EbYAATRAE.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093758398718500864"
+          ],
+          "media_source_tweet_id": [
+            "2093758404745646084"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095399766352179489",
+        "created_at": "2026-09-03T06:33:29.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095399766352179489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2093756395527270400",
+              "start": 3,
+              "username": "Yuri_TvT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87xJebmtXR",
+              "end": 65,
+              "expanded_url": "https://x.com/Yuri_TvT/status/2093758404745646084/photo/1",
+              "media_key": "3_2093758398718500864",
+              "start": 42,
+              "url": "https://t.co/87xJebmtXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095399766352179489",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093758398718500864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093758404745646084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuri_TvT: 我回来了(＞人＜;)\n还有人记得我吗 大号应该回不来啦 https://t.co/87xJebmtXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093758398718500864"
+          ]
+        },
+        "author_id": "2093756395527270400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093758404745646084",
+        "created_at": "2026-08-29T17:51:18.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093758404745646084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/87xJebmtXR",
+              "end": 51,
+              "expanded_url": "https://x.com/Yuri_TvT/status/2093758404745646084/photo/1",
+              "media_key": "3_2093758398718500864",
+              "start": 28,
+              "url": "https://t.co/87xJebmtXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093758404745646084",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093758398718500864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1265,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我回来了(＞人＜;)\n还有人记得我吗 大号应该回不来啦 https://t.co/87xJebmtXR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 77,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 54,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2095399766352179489",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 522,
+          "like_count": 17736,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T17:44:13.000Z",
+        "description": "我是阿苏 大号被冻啦所以开小号了",
+        "id": "2093756395527270400",
+        "is_identity_verified": false,
+        "location": "你发现我了吗(＞人＜;)",
+        "most_recent_tweet_id": "2095155491987210412",
+        "name": "Yuri（重生寻回互fo版",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093757391129174016/MgL9SENm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Yuri_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
