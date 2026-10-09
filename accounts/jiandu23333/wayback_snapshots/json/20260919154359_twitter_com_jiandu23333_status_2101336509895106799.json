@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "289298525",
+    "conversation_id": "2101122163394949463",
+    "created_at": "2026-09-19T15:43:59.000Z",
+    "display_text_range": [
+      14,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101336509895106799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378164402101182469",
+          "start": 0,
+          "username": "Appraiser008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101336509895106799",
+    "in_reply_to_user_id": "1378164402101182469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101122163394949463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appraiser008 弱智火箭本身设计时就是要考虑防雷击的，这种就是特殊情况"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42144,
+        "height": 1280,
+        "media_key": "13_2101122121221181440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101122121221181440/img/6qSPk5RgByBmZq0W.jpg",
+        "public_metrics": {
+          "view_count": 150634
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101122121221181440/vid/avc1/320x568/Cvw19Av9T4jY2i8k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101122121221181440/vid/avc1/480x852/ATAj38lijzLhAzlY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101122121221181440/vid/avc1/720x1280/v6V6pYhzfOPABTx_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101122121221181440/pl/oxgYLVNwdRfr9Lqf.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "289298525",
+        "conversation_id": "2101122163394949463",
+        "created_at": "2026-09-19T15:43:59.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101336509895106799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378164402101182469",
+              "start": 0,
+              "username": "Appraiser008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101336509895106799",
+        "in_reply_to_user_id": "1378164402101182469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101122163394949463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appraiser008 弱智火箭本身设计时就是要考虑防雷击的，这种就是特殊情况"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101122121221181440"
+          ]
+        },
+        "author_id": "1378164402101182469",
+        "conversation_id": "2101122163394949463",
+        "created_at": "2026-09-19T01:32:15.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101122163394949463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGim0GBohY",
+              "end": 54,
+              "expanded_url": "https://x.com/Appraiser008/status/2101122163394949463/video/1",
+              "media_key": "13_2101122121221181440",
+              "start": 31,
+              "url": "https://t.co/tGim0GBohY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101122163394949463",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101122121221181440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 179284,
+          "like_count": 336,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "雷电劈了长三乙火箭🚀！😂这是航天局的责任，还是气象局要背锅？ https://t.co/tGim0GBohY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Hong Kong Special Administrative Region, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.16667,
+                  22.25
+                ],
+                "type": "Point"
+              },
+              "locality": "Hong Kong Special Administrative Region"
+            }
+          ]
+        },
+        "description": "非常好吃的饼酱/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 77,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 54,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOo1uA"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101336509895106799",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289298525/1786377878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 527,
+          "like_count": 18240,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/uJDpdOo1uA",
+        "username": "jiandu23333",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T01:56:26.000Z",
+        "description": "纵有千古，横有八荒；\n前途似海，来日方长。",
+        "id": "1378164402101182469",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101336383235510479",
+        "name": "🇨🇳 大牛🇨🇳",
+        "pinned_tweet_id": "2100100766631673891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378164402101182469/1715830000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922143712928530432/znfFyshI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189996,
+          "following_count": 9299,
+          "like_count": 118985,
+          "listed_count": 399,
+          "media_count": 18322,
+          "tweet_count": 69401
+        },
+        "url": "",
+        "username": "Appraiser008",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
